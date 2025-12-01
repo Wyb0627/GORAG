@@ -1,0 +1,15 @@
+{
+  "0": "neutral",
+  "1": "slur",
+  "2": "threatening_language",
+  "3": "dehumanization",
+  "4": "glorification",
+  "5": "person_directed_abuse",
+  "6": "person_directed_counter_speech",
+  "7": "identity_directed_animosity",
+  "8": "identity_directed_derogation",
+  "9": "identity_directed_counter_speech",
+  "10": "affiliation_directed_animosity",
+  "11": "affiliation_directed_derogation",
+  "12": "affiliation_directed_counter_speech"
+}
